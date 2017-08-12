@@ -8,17 +8,17 @@ Create a Twitter Desktop Application using twitter API. The app should do the fo
   * Load the Feeds for the person who has logged in.
   * Post a new tweet.
  
-Use Kendo UI framework with Angular JS to build this Clone.
+Use Angular JS to build this Clone.
 
 Task B
  
 Create a backend for this which will store the tweets like by a person and add new button in the APP to view the tweets like by them.
-Use Node JS along with MySql to build the storage engine.
+Use Node JS along with MySql/MongoDB to build the storage engine.
 
 
 Guidelines
 
- * You MUST include installation instructions so that it can be run locally be other developers. 
+ * You MUST include installation instructions so that it can be run locally by other developers. 
  * You MUST publish your solution as a public github repository.
  * You MUST include, at a minimum, a javascript component on the client-side portion of the application; the rest of the solution is up to you.
  * You SHOULD make extensive use of any tools/frameworks/libraries/APIs you feel aid in completion of the the requirements 
