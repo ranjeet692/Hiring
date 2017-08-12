@@ -3,7 +3,7 @@
 Task is splitted into two parts. You are expected to carry out both the tasks. 
 
 Task A
-Create a Twitter Desktop Application using twitter API. The app should do the following:
+Create a Twitter Simple Web Application/Progressive Web Application using twitter API. The app should do the following:
   * Login with Twitter
   * Load the Feeds for the person who has logged in.
   * Post a new tweet.
